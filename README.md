@@ -1,2 +1,7 @@
-# loan_default
-Assess the loan applicant's background and develop a methodology to predict whether a specific customer will default on a particular loan
+# Loan Default Prediction
+--------------
+- ## Problem Statement
+  Assess the loan applicant's background and develop a methodology to predict whether a specific customer will default on a particular loan
+- ## Solution
+  I implemented a machine learning approach to identify and understand the credit risk of a loan applicant. As we will be predicting the applicant's capability to repay a loan by unleashing all aspects of data, my approach would be all-encompassing. A trained machine learning model would save the time of both consumers and banks drastically. It will also enable
+banks or financial institutions to save on monetary and time-wise resources, pinpoint their probable defaulters, and rid themselves of any losses. This also helps in Assessing the risk profile of the total portfolio for them. Through this model, we can predict who the possible defaulters are for the consumer loan products. This model will help the organization to monitor its non-performing assets, differentiate between defaulter and non-defaulter customers. The proposed machine learning approach is ideal for tackling the given problem as it is more sophisticated, and swifter compared to any other possible solution. Our solution will also undergo multiple phases of training to give us an eventual learned model, which would be resilient to data discrepancies.
